@@ -2,9 +2,9 @@
   "name": "nodejslearning",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
+  "type": "commonjs",
   "license": "ISC",
-  "author": "",
+  "author": "FazleyRM",
   
   "main": "index.js",
   "scripts": {
